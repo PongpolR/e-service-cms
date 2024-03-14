@@ -1,0 +1,45 @@
+#textarea {
+  padding: 10px 0;
+}
+
+.timepicker div,
+.timepicker label {
+  font-family: "Noto Sans Thai";
+  color: rgb(209, 213, 219);
+  font-weight: 200;
+  font-size: 14px;
+}
+
+.timepicker div {
+  color: black;
+}
+
+.timepicker label {
+  margin-top: -0.2rem;
+}
+
+.timepicker div {
+  overflow: hidden;
+}
+
+.timepicker div,
+#datepicker {
+  height: 42px;
+  width: 227px;
+}
+
+#datepicker {
+  border: 1px solid rgb(209, 213, 219);
+}
+
+.timepicker button {
+  margin-left: 4rem;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: 1px solid rgb(209, 213, 219);
+}
+
+thead tr:first-child {
+  background-color: blue;
+}
